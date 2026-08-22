@@ -42,6 +42,8 @@ src
                 ├── ComponentType.java
                 ├── PriceCalculation.java
                 └── PriceHistory.java
+```
+---
 ---
 # Main WorkFlow:
 
