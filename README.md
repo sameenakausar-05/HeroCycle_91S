@@ -42,3 +42,23 @@ src
                 ├── ComponentType.java
                 ├── PriceCalculation.java
                 └── PriceHistory.java
+---
+# Main WorkFlow:
+
+Component
+    ↓
+Price + Quantity
+    ↓
+PriceCalculation
+    ↓
+Total Price
+    ↓
+Price Change
+    ↓
+PriceHistory
+    ↓
+Updated Component Price
+    ↓
+Recalculate
+    ↓
+New Total Price
