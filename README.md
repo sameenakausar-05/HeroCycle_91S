@@ -45,8 +45,8 @@ src
 ```
 ---
 ---
-# Main WorkFlow:
-
+## Main WorkFlow:
+```text
 Component
     ↓
 Price + Quantity
